@@ -1,0 +1,15 @@
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/bin/Debug/net7.0/InterviewRatingProject
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/bin/Debug/net7.0/InterviewRatingProject.deps.json
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/bin/Debug/net7.0/InterviewRatingProject.runtimeconfig.json
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/bin/Debug/net7.0/InterviewRatingProject.dll
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/bin/Debug/net7.0/InterviewRatingProject.pdb
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.csproj.AssemblyReference.cache
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.AssemblyInfoInputs.cache
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.AssemblyInfo.cs
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.csproj.CoreCompileInputs.cache
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.dll
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/refint/InterviewRatingProject.dll
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.pdb
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/InterviewRatingProject.genruntimeconfig.cache
+/Users/gokaycanberkabanoz/Interview/InterviewRatingProject/obj/Debug/net7.0/ref/InterviewRatingProject.dll
